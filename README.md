@@ -1,4 +1,4 @@
-## Quick Audit of XDEFI for code4rena.
+## Audit of XDEFI for code4rena.
 
 Audit findings marked with the @audit tag.
 All findings are my own and do not represent all the bugs, vulnerabilities and optimizations present in the smart contracts.
